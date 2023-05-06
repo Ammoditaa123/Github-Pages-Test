@@ -1,2 +1,2 @@
 # Github-Pages-Test
-Its just a test, t check github pages !
+Its just a test, to check github pages !
